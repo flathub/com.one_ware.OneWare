@@ -638,17 +638,17 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit/11.1.0/oneware.avaloniaedit.11.1.0.nupkg",
-        "sha512": "312d3d3604c0deeb8e247651631bb71bc5fb8b5afce4267d0d4a9da37b47b2947c47ce38ef82560da1dfb8756e4186485714a2ea17c85ee614c56e7e48eebf32",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit/11.1.0.4/oneware.avaloniaedit.11.1.0.4.nupkg",
+        "sha512": "2e5caf94d8486c4d3b6e46e6b4b083355b0dce85a15534f992e13eb733e6f568d836be991a8155fe86f3087a342a59c7f8e17f633c1b34f033b777501cff7472",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.avaloniaedit.11.1.0.nupkg"
+        "dest-filename": "oneware.avaloniaedit.11.1.0.4.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit.textmate/11.1.0/oneware.avaloniaedit.textmate.11.1.0.nupkg",
-        "sha512": "c6b8da0f52dc3bda21d78857580bb7e20a2dd0619c0b31b8f874104579dce2df54256eacdebf95d64cef6b70dc5c9ed01c32b2fd03a95012b0e1ca51d2482c5d",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit.textmate/11.1.0.4/oneware.avaloniaedit.textmate.11.1.0.4.nupkg",
+        "sha512": "8fdbf1e616f735101fd66b2014c31dc70966f82a8ec0928573a2420fb2afc551e79492fe06525880dda7cf5c31bc7684e2ee8628f1883de1f27e5e13dbb304dd",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.avaloniaedit.textmate.11.1.0.nupkg"
+        "dest-filename": "oneware.avaloniaedit.textmate.11.1.0.4.nupkg"
     },
     {
         "type": "file",
@@ -904,10 +904,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sharpcompress/0.33.0/sharpcompress.0.33.0.nupkg",
-        "sha512": "c5faa771877a00f5eeac90f54c6300660eb6b6edd5dc8d78e99b56566ee120d94a3f453be9c27abe5a0a88d10e3821389467e316d83dfad0833f4447e23c1004",
+        "url": "https://api.nuget.org/v3-flatcontainer/sharpcompress/0.37.2/sharpcompress.0.37.2.nupkg",
+        "sha512": "026e6816c54caceefe84601064b2300d101e09e994ca1e84036668eb306640ae6445e22f78ea43989194486509b28b8d83fe973b037d6779179278c0ad0ede94",
         "dest": "nuget-sources",
-        "dest-filename": "sharpcompress.0.33.0.nupkg"
+        "dest-filename": "sharpcompress.0.37.2.nupkg"
     },
     {
         "type": "file",
@@ -1324,10 +1324,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.json/7.0.0/system.text.json.7.0.0.nupkg",
-        "sha512": "2628eda57e6b44c8e2401624cf4c0f9265dabedec04eb408187e0aadf4278c038e8c7c6fc1082799f7a20e205e69c7788b44de323e82565f19436e7ffb5ab41f",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg",
+        "sha512": "ba0822c38c3b658aba9495642d269e882b827e3be4ad2dc1426d8a97d3cbc5a2277c5f80847d0cb9381078af01523328c4992caa058146d5d8ee6b8a08609c32",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.json.7.0.0.nupkg"
+        "dest-filename": "system.text.encodings.web.8.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1335,6 +1335,13 @@
         "sha512": "20ab3a9e729cb3e019f624986b5489341aca89700b31f86f1a7945485b073c715d60b804fc6ea27c628a30d6d46015d1d1efa0b75fb8842f620d0a95f749c648",
         "dest": "nuget-sources",
         "dest-filename": "system.text.json.7.0.2.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.json/8.0.4/system.text.json.8.0.4.nupkg",
+        "sha512": "9f87ee2a39ba4f602a2b3ec7584b8aa2c03a7f6db1e303f48224dbc139ddbf3cb10190be04efe1d1592b0bf5b2fd97f6d8f88fd492a45f778b84fd3e613acb00",
+        "dest": "nuget-sources",
+        "dest-filename": "system.text.json.8.0.4.nupkg"
     },
     {
         "type": "file",
@@ -1380,17 +1387,17 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/textmatesharp/1.0.58/textmatesharp.1.0.58.nupkg",
-        "sha512": "f39764970e8c7556cd186f8711fef65f5adba62413e234a81da5b52cbe36a113c0fe10bdd4838a7d7be9864ce2eb6a3053a8ee511738d126ef0e08d60b472b4d",
+        "url": "https://api.nuget.org/v3-flatcontainer/textmatesharp/1.0.59/textmatesharp.1.0.59.nupkg",
+        "sha512": "d8339b5085335f80c86c40be907e6e49d5bf8eaf7841b7e3c34cf2ed462058d9c623e4129a042fbd07a7c4ced49190176a370192e499fc519dba9db95bfa9df9",
         "dest": "nuget-sources",
-        "dest-filename": "textmatesharp.1.0.58.nupkg"
+        "dest-filename": "textmatesharp.1.0.59.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/textmatesharp.grammars/1.0.58/textmatesharp.grammars.1.0.58.nupkg",
-        "sha512": "d15b461e536ce02354ab863cbd81ee3b73ef9a2e16014459476bac0f95be5235c54a6bae2796c29c3e2e09e8db74383b5ef951b793afa073e8182138c085d934",
+        "url": "https://api.nuget.org/v3-flatcontainer/textmatesharp.grammars/1.0.59/textmatesharp.grammars.1.0.59.nupkg",
+        "sha512": "780e416700fe2ce4f5d7bf52dcf26ed994e43f18a48564c5010dc69075df62cb832139f0b93e88a4a9aba4322e9de900ce178fb4b1622c138f1d0bf9b75b3835",
         "dest": "nuget-sources",
-        "dest-filename": "textmatesharp.grammars.1.0.58.nupkg"
+        "dest-filename": "textmatesharp.grammars.1.0.59.nupkg"
     },
     {
         "type": "file",
@@ -1398,5 +1405,12 @@
         "sha512": "1e6e1bf8ea7c652e5502e96323984157e060ac728843f2104ff8dcab755483ff93ef4df7cc4e7dd4b56047ba42bf349c2681e2fb8d6518328eab002e63d371b2",
         "dest": "nuget-sources",
         "dest-filename": "tmds.dbus.protocol.0.16.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/zstdsharp.port/0.8.0/zstdsharp.port.0.8.0.nupkg",
+        "sha512": "e99a34d95fa63f608ee65cc11b190fdc495daba0237ce08285b20cdaad8441eb2dfc7dca491a249331d0a75f4d143c2719fca9a14def82df649ced5861bc66b7",
+        "dest": "nuget-sources",
+        "dest-filename": "zstdsharp.port.0.8.0.nupkg"
     }
 ]
