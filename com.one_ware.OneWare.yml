@@ -1,13 +1,13 @@
 app-id: com.one_ware.OneWare
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.dotnet8
+  - org.freedesktop.Sdk.Extension.dotnet9
 build-options:
-  prepend-path: "/usr/lib/sdk/dotnet8/bin"
-  append-ld-library-path: "/usr/lib/sdk/dotnet8/lib"
-  prepend-pkg-config-path: "/usr/lib/sdk/dotnet8/lib/pkgconfig"
+  prepend-path: "/usr/lib/sdk/dotnet9/bin"
+  append-ld-library-path: "/usr/lib/sdk/dotnet9/lib"
+  prepend-pkg-config-path: "/usr/lib/sdk/dotnet9/lib/pkgconfig"
   arch:
     aarch64:
       env:
