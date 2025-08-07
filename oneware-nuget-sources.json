@@ -1289,6 +1289,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.commandline/2.0.0-beta5.25306.1/system.commandline.2.0.0-beta5.25306.1.nupkg",
+        "sha512": "448d303afda8cf3fe8bbd85d5a9b875cec412639bcdb46cdacdacababedf1cab207fabe1f051f817a48b53f6db50923f73f7546875079bc06694018b6ccc63d8",
+        "dest": "nuget-sources",
+        "dest-filename": "system.commandline.2.0.0-beta5.25306.1.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg",
         "sha512": "7c638ac92a132e1553a089c6a711ffb7431b22fecca322ce748d6684ae2baaf161bab2f71704750bd15ec6fda11e795f2ab8491ac769b89341bde77aa9212d59",
         "dest": "nuget-sources",
