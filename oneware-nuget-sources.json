@@ -71,27 +71,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.controls.proportionalstackpanel/11.3.0/avalonia.controls.proportionalstackpanel.11.3.0.nupkg",
-        "sha512": "188794fbe2890967d1449a6317b07e0a980d51ee433ca49efb636c59f27c976a7babb2c09b2360ef1d445aed0daad10a7e919a46b3d074e893a181ec435899c1",
-        "dest": "nuget-sources",
-        "dest-filename": "avalonia.controls.proportionalstackpanel.11.3.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.controls.recycling/11.3.0/avalonia.controls.recycling.11.3.0.nupkg",
-        "sha512": "94f9df375f039f9cb5687f7828f33990b795f6d6dbaec28fa1e0d0abafe55f22da287469b536b638bc25e8149b406dbf411ec2f3a89d5f8484846bdb8484aa17",
-        "dest": "nuget-sources",
-        "dest-filename": "avalonia.controls.recycling.11.3.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.controls.recycling.model/11.3.0/avalonia.controls.recycling.model.11.3.0.nupkg",
-        "sha512": "e34d0cb462aaaf71d26d8a903b8c106c032707be0c2d06023c61456b34b7e1e3e6e3ae16cf64be387e569af876c07a4a457607bd4443d6c6d336607e5e629395",
-        "dest": "nuget-sources",
-        "dest-filename": "avalonia.controls.recycling.model.11.3.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/avalonia.desktop/11.3.3/avalonia.desktop.11.3.3.nupkg",
         "sha512": "4750551e5d9f2864e5045f8e39761b2d745895058b09b09974f5c7a7e15fe2af40575a73d5ae718e09390cf9c639de3ecf7e65f66cbb1b508b80b71535cda045",
         "dest": "nuget-sources",
@@ -117,13 +96,6 @@
         "sha512": "ee9350af80220461484715df6b1b03ffec72d017ebb24094e46488f9c4e1b83bae9913d980f67e4ec2664965f585cdbfcb188c67565a1dc537c082b03cc8dba3",
         "dest": "nuget-sources",
         "dest-filename": "avalonia.markup.xaml.loader.11.0.7.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.markupextension/11.3.0/avalonia.markupextension.11.3.0.nupkg",
-        "sha512": "70698232a33e235eab1fac5c54b3bd082bac7912ada55bce66c9a535d7903d43c97924541614c126ab614e54246bfd97e3eb02ab2a4a6e772b1d10bd11ed6baf",
-        "dest": "nuget-sources",
-        "dest-filename": "avalonia.markupextension.11.3.0.nupkg"
     },
     {
         "type": "file",
@@ -218,31 +190,66 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/dock.avalonia/11.3.0/dock.avalonia.11.3.0.nupkg",
-        "sha512": "f9fd3d7e4f3af6ca3c9dbdbdf3a5d6f8bd26e4c631aa2aaab32fa6869680b50aff0f577b08af05d44bc499209eddf8765fb4883e55e38a530482467eebc386c8",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.avalonia/11.3.2.2/dock.avalonia.11.3.2.2.nupkg",
+        "sha512": "75845b593baa1196cddde9a0990979b422a692ee57487c0a10be61e9b66cc82fcc8d05fb5d3049d592fd5abcaeb5df104b549ae4279add708e9af9fe29663341",
         "dest": "nuget-sources",
-        "dest-filename": "dock.avalonia.11.3.0.nupkg"
+        "dest-filename": "dock.avalonia.11.3.2.2.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/dock.model/11.3.0/dock.model.11.3.0.nupkg",
-        "sha512": "c80a32c2ddd899f6de6e55324a879a388afc78a7793c73e2846c900a731b48ea1934ce104070be04e3305d77503fa98e026e013f8dc1a788452b383f442b102c",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.avalonia.themes.simple/11.3.2.2/dock.avalonia.themes.simple.11.3.2.2.nupkg",
+        "sha512": "c99591e4733753edd0e5d35701a4d72d6b26e0e094c116ec41bd1e9fcea4349d71aa113e1b707ef208a850e7e1051691b796f5c4e9af63a7c1f2e767e548cd28",
         "dest": "nuget-sources",
-        "dest-filename": "dock.model.11.3.0.nupkg"
+        "dest-filename": "dock.avalonia.themes.simple.11.3.2.2.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/dock.model.mvvm/11.3.0/dock.model.mvvm.11.3.0.nupkg",
-        "sha512": "8987cff592370c51d59ace7bf4d81e112cfcc387c540aec7f002a6ab3b15d5179c1623bb36f8562b2ec88d85cf8b7b9484de19f9d4b65470bffa2791afb2ec6e",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.controls.proportionalstackpanel/11.3.2.2/dock.controls.proportionalstackpanel.11.3.2.2.nupkg",
+        "sha512": "cfcaebd474508522bc9480715aeb94e52df3948741bc19ae1b6c6b22b2c27664b6eb5acd443bfcaffdcd4b1836b23e3f97a2cee17dad6adb88b13157e3cb5512",
         "dest": "nuget-sources",
-        "dest-filename": "dock.model.mvvm.11.3.0.nupkg"
+        "dest-filename": "dock.controls.proportionalstackpanel.11.3.2.2.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/dock.settings/11.3.0/dock.settings.11.3.0.nupkg",
-        "sha512": "1230d2c4e5e7b46c951bd87ad71f5946a80503dfb80ba8f0bf56ae6eb8ce97280666567b043d80679482d2633a7abefd4721f682e34d5b797ea9bf498929513b",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.controls.recycling/11.3.2.2/dock.controls.recycling.11.3.2.2.nupkg",
+        "sha512": "0eb7adc11e6d92ae340656f49705b51fa3334d7a1f5621e183c5bafbc59d0d875c62ce6a36a89e25d9f6e6760b32b707e91f603371e3323646891c74e620dc13",
         "dest": "nuget-sources",
-        "dest-filename": "dock.settings.11.3.0.nupkg"
+        "dest-filename": "dock.controls.recycling.11.3.2.2.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.controls.recycling.model/11.3.2.2/dock.controls.recycling.model.11.3.2.2.nupkg",
+        "sha512": "289dbaec3a817be675caff029ae8bce7c98912db8c6ff2df5d7ecbb706a8cd8d89ed79341a911db6d2e9d88bbefa7902348f7d40944b1da43fbe660a1dd62ebb",
+        "dest": "nuget-sources",
+        "dest-filename": "dock.controls.recycling.model.11.3.2.2.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.markupextension/11.3.2.2/dock.markupextension.11.3.2.2.nupkg",
+        "sha512": "2450ad923e20f4d2c3f83d1963e193ca02273ea6b775cc53c96f549d6b86b9bb8ee40d1f2c7825cb873d80247944e89d3ed5068f59051aa72ecb8914b9966d99",
+        "dest": "nuget-sources",
+        "dest-filename": "dock.markupextension.11.3.2.2.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.model/11.3.2.2/dock.model.11.3.2.2.nupkg",
+        "sha512": "07d08d04e210856d55895440ad887fe7726f17cb35262b2ac075c8c949f7700e8a96c5464a1101bbdafb9e07d5543e8c1adc4c55e42e863db320c45f34e908da",
+        "dest": "nuget-sources",
+        "dest-filename": "dock.model.11.3.2.2.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.model.mvvm/11.3.2.2/dock.model.mvvm.11.3.2.2.nupkg",
+        "sha512": "7d8bda1fb3095aa788f839d1dcae205e01231e6ba415edf5d6aee6149c23fda5847f9e1f039ad4542581ba4aef6878ac7a0adcce5e43017fab781529a3051426",
+        "dest": "nuget-sources",
+        "dest-filename": "dock.model.mvvm.11.3.2.2.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/dock.settings/11.3.2.2/dock.settings.11.3.2.2.nupkg",
+        "sha512": "14db58c670631c5f6baea541802b88c6a5ab9ff82e02cad53642ef2cc470ef76b546153045bded43bc65dcd31b14824d41cf9d829e164f5979c2412175c1ee80",
+        "dest": "nuget-sources",
+        "dest-filename": "dock.settings.11.3.2.2.nupkg"
     },
     {
         "type": "file",
