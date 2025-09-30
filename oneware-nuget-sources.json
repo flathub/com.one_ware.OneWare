@@ -15,6 +15,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia/11.0.0/avalonia.11.0.0.nupkg",
+        "sha512": "86d2827bd65ae364dba920221a66bcffece977d5688833e7a1b16e13a3c5a56b5c0719f7e04876ece3f43963c41efe54b57e0a6375c258f816037dab95dc7f3f",
+        "dest": "nuget-sources",
+        "dest-filename": "avalonia.11.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/avalonia/11.0.7/avalonia.11.0.7.nupkg",
         "sha512": "04ec6399c36c5b6dd1b6406557637330c16c82b38322687a865cd5dc474b13aac7ba3e6f12dbab8568d2f9f4bef205f02c8c6f55f1beb2634ff123bfc6fabb46",
         "dest": "nuget-sources",
@@ -57,6 +64,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.buildservices/0.0.28/avalonia.buildservices.0.0.28.nupkg",
+        "sha512": "90ff1b9133b31bcde6a38566f0b70b29121e7f75724231b7e298242320eb3bb080ecb8adf934d0f8b064b2dc0d69d524295bb9ad419683b40e1ebdd3cf5c3dcc",
+        "dest": "nuget-sources",
+        "dest-filename": "avalonia.buildservices.0.0.28.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/avalonia.buildservices/0.0.31/avalonia.buildservices.0.0.31.nupkg",
         "sha512": "00490f7472cfb971e4042e1176c64391254d7be14f6fbdd04371610b67b450b2d1fc6271b82b3ba9d3ec967b9522cbf855ccf5c03ae8ffddedad5c31dfbb22b8",
         "dest": "nuget-sources",
@@ -75,6 +89,13 @@
         "sha512": "2af3e5418ab8f4cd8877b130c30789f5284093a0ade92d240c156481e29ca9a0a4d0a5eab21d568c0e1be115cf975a9774b70912863afed7adf633f363da6a82",
         "dest": "nuget-sources",
         "dest-filename": "avalonia.controls.datagrid.11.3.5.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.controls.treedatagrid/11.1.1/avalonia.controls.treedatagrid.11.1.1.nupkg",
+        "sha512": "1ebed34c2d584e564702a8349894436b79b8d44f61e3f28bfd22b26add39d16bfefc95a7ba704c669f8b575ff52842e66d250841445045bbbb5cb6d5396ce60e",
+        "dest": "nuget-sources",
+        "dest-filename": "avalonia.controls.treedatagrid.11.1.1.nupkg"
     },
     {
         "type": "file",
@@ -124,6 +145,13 @@
         "sha512": "6ba1e40cb537293bf221dcb7fea2ad26b8cad1aa96ba4e0020d59fae0521ab61dd2eeaec08cfa384c5e9b9cd5936b0de91ab343a1c42506ea64949de12f52d91",
         "dest": "nuget-sources",
         "dest-filename": "avalonia.reactiveui.11.3.5.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.remote.protocol/11.0.0/avalonia.remote.protocol.11.0.0.nupkg",
+        "sha512": "e172171538fe25faf9a38e13853b73634bd5e93293a86fdcdcf4b40c90717bdb655f7e249fb5c41cb3eb82e4f53c4075576bb4af33a13dffb254a63fd9a6e1eb",
+        "dest": "nuget-sources",
+        "dest-filename": "avalonia.remote.protocol.11.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1419,6 +1447,13 @@
         "sha512": "5989a57ef273b689a663e961a0fe09d9b1d88438e5478358efc4b165de3b2674fa9579c301ce12d2d2fa5f33295f2acb42eceea2ebebf70c733da6364ceaf94d",
         "dest": "nuget-sources",
         "dest-filename": "system.private.uri.4.3.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.reactive/5.0.0/system.reactive.5.0.0.nupkg",
+        "sha512": "23156e017b081b88aba7d9462438e09024003c61874e9798d389841a0f215cab63bdc69ab25d0ad3f1bf75d65d76771810f9d0184c338fd96c0b5c1e21df9590",
+        "dest": "nuget-sources",
+        "dest-filename": "system.reactive.5.0.0.nupkg"
     },
     {
         "type": "file",
