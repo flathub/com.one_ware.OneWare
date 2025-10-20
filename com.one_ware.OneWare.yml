@@ -4,6 +4,7 @@ runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.dotnet9
+
 build-options:
   prepend-path: "/usr/lib/sdk/dotnet9/bin"
   append-ld-library-path: "/usr/lib/sdk/dotnet9/lib"
@@ -18,13 +19,30 @@ build-options:
 
 command: oneware
 separate-locales: false
+
 finish-args:
   - --device=all
   - --share=ipc
   - --share=network
   - --socket=x11
   - --filesystem=home
+  - --talk-name=org.freedesktop.secrets
 modules:
+
+  # Libsecret
+  - shared-modules/libsecret/libsecret.json
+
+  # Git
+  - name: git
+    buildsystem: simple
+    build-commands:
+      - install -D /usr/bin/git /app/bin/git
+    sources:
+      - type: script
+        commands:
+          - echo "Bundling git binary for runtime"
+
+  # OneWare build module
   - name: oneware
     buildsystem: simple
     build-commands:
