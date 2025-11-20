@@ -400,10 +400,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.linux-x64/9.0.4/microsoft.aspnetcore.app.runtime.linux-x64.9.0.4.nupkg",
-        "sha512": "51a5931d40f9d7c35652dc2428db5676f3bc40db3a0827f25c79d1949bca002e1eaea37750eb8911e580ae3864804f1afc245fa522212b0393755fed9e7fa0ba",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.linux-x64/9.0.11/microsoft.aspnetcore.app.runtime.linux-x64.9.0.11.nupkg",
+        "sha512": "1565381f3b055a367799c32eca9ba444d7ac6d679088b7fe2f48034bdff7b133542f121771b671871ce5bb1528e137f81352a05ff1ba2d0ededb666a8fecf3c4",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.app.runtime.linux-x64.9.0.4.nupkg"
+        "dest-filename": "microsoft.aspnetcore.app.runtime.linux-x64.9.0.11.nupkg"
     },
     {
         "type": "file",
@@ -638,17 +638,17 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.crossgen2.linux-x64/9.0.4/microsoft.netcore.app.crossgen2.linux-x64.9.0.4.nupkg",
-        "sha512": "5063ffcbe8d1cd05cbeb2150cfe33a6d69dc9dfcacc1c3b35b751c82df63d25b080810f4c98df782cd03dbfca550d50817536dd2dc3e369b1adfdfbd26d52a95",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.crossgen2.linux-x64/9.0.11/microsoft.netcore.app.crossgen2.linux-x64.9.0.11.nupkg",
+        "sha512": "ea09e3c961717d886a14e4766f8cebd0e02223bcfa4c8f7c93a3f7a23a5e27d3f3958e47882c1bfd7b4ca32531b08cf4bb7cb988bf6403f0c174c7dc763cfc8f",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.crossgen2.linux-x64.9.0.4.nupkg"
+        "dest-filename": "microsoft.netcore.app.crossgen2.linux-x64.9.0.11.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-x64/9.0.4/microsoft.netcore.app.runtime.linux-x64.9.0.4.nupkg",
-        "sha512": "cbd6c2906d0fae770883e8f88f42d791d918144de0b8e7299ea6db9ab12bb9536bbd69d248322bb4f348dc580a95c3286debf3e65ac8a01ed06906214139b6d3",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-x64/9.0.11/microsoft.netcore.app.runtime.linux-x64.9.0.11.nupkg",
+        "sha512": "645d28c1fea64dcde4c222d15e2b9bfd69a63f0e4b468f099e1b0c8520fcdf88a644d4873c59bbbd8e6aab3dcbd3d4b6fe5a0ef49836a809952cd4d03bc8d08b",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.runtime.linux-x64.9.0.4.nupkg"
+        "dest-filename": "microsoft.netcore.app.runtime.linux-x64.9.0.11.nupkg"
     },
     {
         "type": "file",
@@ -799,17 +799,17 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit/11.3.3/oneware.avaloniaedit.11.3.3.nupkg",
-        "sha512": "03148df88bb037f118cb564d1e8f3344096ce1bbfede3f9c534e33bf431cd70729a4500306a8f45611fe70724909d9be3433f3dad522d2b2c193340f808bc41f",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit/11.3.8/oneware.avaloniaedit.11.3.8.nupkg",
+        "sha512": "6bca59518d45196a99d7c549d0197949995142077212dc29ac0aab9ebd1fe9df3f18d1737464037c1883aed44324723d24b941e0294593265577bb1578d1b604",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.avaloniaedit.11.3.3.nupkg"
+        "dest-filename": "oneware.avaloniaedit.11.3.8.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit.textmate/11.3.3/oneware.avaloniaedit.textmate.11.3.3.nupkg",
-        "sha512": "183fd6dc4c48c348e895988faefd9c4427154230d063950ee5cc543dfc83d53c079aa14b397ec37739b4091f33735b41f63ac46d14a381e14aadbebbd412c18d",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit.textmate/11.3.8/oneware.avaloniaedit.textmate.11.3.8.nupkg",
+        "sha512": "384eba74edca3cc1e36c21918db5fe50511580343a11e7b31ef17065925cf6c7761d7697a7506d3746bc0f3a5f75492f9d9c9fd2ad8dba615c6f0d7a2e915e1c",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.avaloniaedit.textmate.11.3.3.nupkg"
+        "dest-filename": "oneware.avaloniaedit.textmate.11.3.8.nupkg"
     },
     {
         "type": "file",
