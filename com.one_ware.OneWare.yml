@@ -3,12 +3,12 @@ runtime: org.freedesktop.Platform
 runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.dotnet9
+  - org.freedesktop.Sdk.Extension.dotnet10
 
 build-options:
-  prepend-path: "/usr/lib/sdk/dotnet9/bin"
-  append-ld-library-path: "/usr/lib/sdk/dotnet9/lib"
-  prepend-pkg-config-path: "/usr/lib/sdk/dotnet9/lib/pkgconfig"
+  prepend-path: "/usr/lib/sdk/dotnet10/bin"
+  append-ld-library-path: "/usr/lib/sdk/dotnet10/lib"
+  prepend-pkg-config-path: "/usr/lib/sdk/dotnet10/lib/pkgconfig"
   arch:
     aarch64:
       env:
@@ -57,7 +57,7 @@ modules:
         url: https://github.com/one-ware/OneWare.git
         disable-shallow-clone: true
         dest: source
-        tag: 0.21.16.0
+        tag: 0.21.17.0
       - type: script
         dest-filename: oneware
         commands:
