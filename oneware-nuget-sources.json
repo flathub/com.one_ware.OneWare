@@ -169,6 +169,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.skia/11.0.0/avalonia.skia.11.0.0.nupkg",
+        "sha512": "6fe1db10ed9422decd24fb60801d9b63651f0bd3f046a9e9d566d0816e7f3fb70eb4cf23db173537a5d5d8e1b75c2999793e5503648fa200a31806c6591b2723",
+        "dest": "nuget-sources",
+        "dest-filename": "avalonia.skia.11.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/avalonia.skia/11.3.6/avalonia.skia.11.3.6.nupkg",
         "sha512": "0d5a96e4543ae25680cbc1693daf8d5578cf5ab42a08a24d19ce47e35d679a8d89f5905029a59f63a2175ac66da10cd28f77a05adfd49e0dfc79b10752026760",
         "dest": "nuget-sources",
@@ -330,6 +337,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/harfbuzzsharp/7.3.0.3/harfbuzzsharp.7.3.0.3.nupkg",
+        "sha512": "bed625c58228c404f860fb3e247fb6ca3209c93fea62da498ba43419500bd40944b2e117f50f587f860101a6c6478ad1d18075f655376d1749d238d74b6a0bd3",
+        "dest": "nuget-sources",
+        "dest-filename": "harfbuzzsharp.7.3.0.3.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/harfbuzzsharp/8.3.1.1/harfbuzzsharp.8.3.1.1.nupkg",
         "sha512": "ed1d94447956fa595c4867fe3eeb4a7b67c97e00e0da5a72762362212cbf25e62be5936e59617c94a1cbd4e6bbd0ac902854d0d36866bd920ed6a85ae663ac8c",
         "dest": "nuget-sources",
@@ -383,6 +397,27 @@
         "sha512": "aa06f25b9cc62619eed349ca50385c78bd0fcef2b7e510febcc5ae63e79c297b24370302f7e54862c238c30b7aab905445aca9426fbb05cf20f0f185cbe74110",
         "dest": "nuget-sources",
         "dest-filename": "libgit2sharp.nativebinaries.2.0.323.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/livechartscore/2.0.0-rc6.1/livechartscore.2.0.0-rc6.1.nupkg",
+        "sha512": "1de450587738b7c5bb441fd3a6ca71cbde5686bba46848fa02448ec2a9e5de08205f76e7797b581988238c42d74348ce49a4d212fa9c387eb5f38a4797b74381",
+        "dest": "nuget-sources",
+        "dest-filename": "livechartscore.2.0.0-rc6.1.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/livechartscore.skiasharpview/2.0.0-rc6.1/livechartscore.skiasharpview.2.0.0-rc6.1.nupkg",
+        "sha512": "0f97ad3a1ca53b099b55b62ff521df1a707d516d91035ad716b0c4d9d677053a6796120a9dd919e171f23b7247efe2f23adace9c1b1832d4a52f1384626c92a9",
+        "dest": "nuget-sources",
+        "dest-filename": "livechartscore.skiasharpview.2.0.0-rc6.1.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/livechartscore.skiasharpview.avalonia/2.0.0-rc6.1/livechartscore.skiasharpview.avalonia.2.0.0-rc6.1.nupkg",
+        "sha512": "79cbb15921f7906594e8244792aa4041bb5b84f88701442dda086f89fdc0ebdb6329517da9edc81d256e25fffbd772ed8fae1b2fa568a9ab3b2d7df66c859d20",
+        "dest": "nuget-sources",
+        "dest-filename": "livechartscore.skiasharpview.avalonia.2.0.0-rc6.1.nupkg"
     },
     {
         "type": "file",
@@ -638,6 +673,20 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime/1.23.2/microsoft.ml.onnxruntime.1.23.2.nupkg",
+        "sha512": "b15027986e717e2e095bb614ef48d8eb3e24496682b77f6d9f24479eacbb4252c81c0e1167e981067cca50a0238496324f23c33f2f765ae8bb318fe4160b3698",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.ml.onnxruntime.1.23.2.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime.managed/1.23.2/microsoft.ml.onnxruntime.managed.1.23.2.nupkg",
+        "sha512": "ea8adfaadef0c516af5dab295e89de36971c1a0005e5bcea8ded043d876c04044f2a47d2c819992a86b3d84971b7b681b2fa235d756eb45c246c642a775a8197",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.ml.onnxruntime.managed.1.23.2.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.crossgen2.linux-x64/10.0.1/microsoft.netcore.app.crossgen2.linux-x64.10.0.1.nupkg",
         "sha512": "97ad4a863975c6b2aad705495685056fbda824e37bba07f53992baafe5e0301c62025d58866db7225796167d028f6f2081a0356e043bf8f75e2258fd242f62cc",
         "dest": "nuget-sources",
@@ -820,10 +869,24 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.12.0.12/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.12.0.12.nupkg",
+        "sha512": "100cb959bfd3c19f1f922889b5c9d40f33842a81c43fd0664aec0daf3484c204cf7f2d364368604a67e186e5f7d190014a169dc531a86ea32d6ae9e998bb7e20",
+        "dest": "nuget-sources",
+        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.12.0.12.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/onigwrap/1.0.8/onigwrap.1.0.8.nupkg",
         "sha512": "834e02160ae3c77c60f813489eb35f9038fc5adcb9d75bb9ef1feff43f5bb3b5b082f665f75fbbf5e9f25a1b737c0340a644dba5c3b559782d006d45fbd302a1",
         "dest": "nuget-sources",
         "dest-filename": "onigwrap.1.0.8.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/opencvsharp4/4.11.0.20250507/opencvsharp4.4.11.0.20250507.nupkg",
+        "sha512": "dd0ec0d6b86959c255a48519da9e7fe659108678794a3ea0d0a673d80c0ba267aaf8528565b3a2a6db4ffc3cf3a0c35511952f7a4052cbbec026ce2ddff5e5f1",
+        "dest": "nuget-sources",
+        "dest-filename": "opencvsharp4.4.11.0.20250507.nupkg"
     },
     {
         "type": "file",
@@ -1184,6 +1247,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/skiasharp.harfbuzz/2.88.9/skiasharp.harfbuzz.2.88.9.nupkg",
+        "sha512": "7ebc75df46b3d2bfb110324dc0613fb1395667219ce42c757fb98f0ff60b755fc69fe6bb94613a2be854e8feecdebe671ea46cd9e8a0df2e90ff7d461ab123cf",
+        "dest": "nuget-sources",
+        "dest-filename": "skiasharp.harfbuzz.2.88.9.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/skiasharp.nativeassets.linux/2.88.9/skiasharp.nativeassets.linux.2.88.9.nupkg",
         "sha512": "5c6a3e93a18e70e6adcd548bd2f76fa311114346ce4d812e520f250d33342d5ad8d05ea285433bd15cb19bbc48d9bbf2ef7d1f1725dd71705accefaba3f46892",
         "dest": "nuget-sources",
@@ -1377,6 +1447,13 @@
         "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
         "dest-filename": "system.memory.4.5.5.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.numerics.tensors/9.0.0/system.numerics.tensors.9.0.0.nupkg",
+        "sha512": "adace58eeed48082d0fd56fb0685b5451ff120404373c627ab4b1193be0aa4b0476b2dd031925f80af25cb8204ce52656c562508ec6974f6bb0cd05461a62d23",
+        "dest": "nuget-sources",
+        "dest-filename": "system.numerics.tensors.9.0.0.nupkg"
     },
     {
         "type": "file",
