@@ -869,10 +869,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.12.0.12/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.12.0.12.nupkg",
-        "sha512": "100cb959bfd3c19f1f922889b5c9d40f33842a81c43fd0664aec0daf3484c204cf7f2d364368604a67e186e5f7d190014a169dc531a86ea32d6ae9e998bb7e20",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.12.0.13/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.12.0.13.nupkg",
+        "sha512": "fb21e0d463c1b9510521660ab8bbd1d1bd603fca57c88ba065f5ae10a17623d4f56c4685e2590647e3f66ec1e97ca929b8ad371e69bfbe477b57d22454bdea7e",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.12.0.12.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.12.0.13.nupkg"
     },
     {
         "type": "file",
