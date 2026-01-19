@@ -694,6 +694,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.crossgen2.linux-arm64/10.0.2/microsoft.netcore.app.crossgen2.linux-arm64.10.0.2.nupkg",
+        "sha512": "0f9d7d019134002dc0882b5724ec05522975d3fd1d9bfba1ca48237bc7e6fad59911fb4678ec2a7b2bc6fc5a93d93f94248b49d97d9a83299d1979ac17db30f4",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.netcore.app.crossgen2.linux-arm64.10.0.2.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.crossgen2.linux-x64/10.0.2/microsoft.netcore.app.crossgen2.linux-x64.10.0.2.nupkg",
         "sha512": "e75928e325781ab1ae4bf53ef1e63159673f89bdca37e64e749987e2ba07816c3f3112007dece51a4400c0c9adec59dddce8c24f669506e21c60a6ed9e994884",
         "dest": "nuget-sources",
