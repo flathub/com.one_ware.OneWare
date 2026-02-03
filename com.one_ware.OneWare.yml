@@ -27,6 +27,7 @@ finish-args:
   - --socket=x11
   - --filesystem=home
   - --talk-name=org.freedesktop.secrets
+  - --talk-name=org.freedesktop.Flatpak
 modules:
 
   # Libsecret
