@@ -36,13 +36,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia/11.3.8/avalonia.11.3.8.nupkg",
-        "sha512": "3b9b91b6f33869c4d385caef17958864b27c8420cdcfaa77e993374799b9e48652221054591f8d46ecdd38a209dc36c81f522a7671ae46ce77f1bb2ae3bbb57e",
-        "dest": "nuget-sources",
-        "dest-filename": "avalonia.11.3.8.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/avalonia/11.3.9/avalonia.11.3.9.nupkg",
         "sha512": "a93325785a42c90cdc7fd3a659f0bf4d713973f51461768faa67b4ae79759f2e4dbcab9089fe9989035a9ce0c9c1fd0ad826ee919c6a6a439072820c102a8845",
         "dest": "nuget-sources",
@@ -715,13 +708,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-arm64/10.0.3/microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg",
-        "sha512": "7ffb7454f05180c3abc6f72e18a42a9be5d7137dd15fbadd320354facd88349ed7f722f40d4d0f6070c6f446781b37a00a913313eb7f2d9d0959699b585dde75",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-arm64/10.0.3/microsoft.netcore.app.runtime.linux-arm64.10.0.3.nupkg",
         "sha512": "de3a9896270df83170ed8a401dadb5a206dd0b381e29b84934e7a06611707cc841f9c855a3df840d804f90c8dbd1d4efa5a362cc13347efc2760e9be2cad89d7",
         "dest": "nuget-sources",
@@ -890,10 +876,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit/11.3.8/oneware.avaloniaedit.11.3.8.nupkg",
-        "sha512": "6bca59518d45196a99d7c549d0197949995142077212dc29ac0aab9ebd1fe9df3f18d1737464037c1883aed44324723d24b941e0294593265577bb1578d1b604",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit/11.3.12/oneware.avaloniaedit.11.3.12.nupkg",
+        "sha512": "126a9fe119282cfdb6e4b2631b27614410ae330d1b4079eef19d8e9a8e6351146bf162c6f26bf3a9d77ca12f72d246b9e637f1faf74c561937cda3bff00cb3d0",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.avaloniaedit.11.3.8.nupkg"
+        "dest-filename": "oneware.avaloniaedit.11.3.12.nupkg"
     },
     {
         "type": "file",
@@ -904,10 +890,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit.textmate/11.3.8/oneware.avaloniaedit.textmate.11.3.8.nupkg",
-        "sha512": "384eba74edca3cc1e36c21918db5fe50511580343a11e7b31ef17065925cf6c7761d7697a7506d3746bc0f3a5f75492f9d9c9fd2ad8dba615c6f0d7a2e915e1c",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.avaloniaedit.textmate/11.3.12/oneware.avaloniaedit.textmate.11.3.12.nupkg",
+        "sha512": "8b93b26a6ab2aac479248b9cca9b53a9ad3cfef7c285628cc770d8b5b3e8b725e8b4b6f91a74d50576ec94cb69e30a2c6701bcd112b8df7ca0709578b851549f",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.avaloniaedit.textmate.11.3.8.nupkg"
+        "dest-filename": "oneware.avaloniaedit.textmate.11.3.12.nupkg"
     },
     {
         "type": "file",
@@ -992,13 +978,6 @@
         "sha512": "7d4a049d9654d47f9ac57aff45f9a67a9fac11d74a3ec8c1e73ad8b194243c857243119da6744308eb618f2a1204345d66648b19a5ff4e306d604d3f68601b11",
         "dest": "nuget-sources",
         "dest-filename": "onigwrap.1.0.10.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/onigwrap/1.0.8/onigwrap.1.0.8.nupkg",
-        "sha512": "834e02160ae3c77c60f813489eb35f9038fc5adcb9d75bb9ef1feff43f5bb3b5b082f665f75fbbf5e9f25a1b737c0340a644dba5c3b559782d006d45fbd302a1",
-        "dest": "nuget-sources",
-        "dest-filename": "onigwrap.1.0.8.nupkg"
     },
     {
         "type": "file",
@@ -1765,24 +1744,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/textmatesharp/1.0.70/textmatesharp.1.0.70.nupkg",
-        "sha512": "39f3ccd1a526927db492e6f2042a39b54a3f4f0368092ab4cd7c9f5cdb3ae43e9960058121e65e07803a18ef6adbe1297698f925f519fd6ffb4df7746ce2269b",
-        "dest": "nuget-sources",
-        "dest-filename": "textmatesharp.1.0.70.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/textmatesharp/2.0.2/textmatesharp.2.0.2.nupkg",
         "sha512": "bf53323d69e3dfbcf2e5422a318cc69bb948d1efbeaccdae1c53a62dcc97959cfaea12d8e8d4691b216b9fee10f843a0801bec9700db9ce35be9bbc1f304e7a2",
         "dest": "nuget-sources",
         "dest-filename": "textmatesharp.2.0.2.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/textmatesharp.grammars/1.0.70/textmatesharp.grammars.1.0.70.nupkg",
-        "sha512": "19aafc22024475c849244453095244fcce36a94118dceb4f8b3724df38ad252d0458066f76678c2d91d4baa41b64106b28236daf4721eef83e9dedca14044697",
-        "dest": "nuget-sources",
-        "dest-filename": "textmatesharp.grammars.1.0.70.nupkg"
     },
     {
         "type": "file",
