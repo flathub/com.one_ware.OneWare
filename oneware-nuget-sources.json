@@ -708,6 +708,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-arm64/10.0.3/microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg",
+        "sha512": "7ffb7454f05180c3abc6f72e18a42a9be5d7137dd15fbadd320354facd88349ed7f722f40d4d0f6070c6f446781b37a00a913313eb7f2d9d0959699b585dde75",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-arm64/10.0.3/microsoft.netcore.app.runtime.linux-arm64.10.0.3.nupkg",
         "sha512": "de3a9896270df83170ed8a401dadb5a206dd0b381e29b84934e7a06611707cc841f9c855a3df840d804f90c8dbd1d4efa5a362cc13347efc2760e9be2cad89d7",
         "dest": "nuget-sources",
@@ -932,45 +939,45 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-arm64/4.13.0.16/oneware.opencvsharp4.runtime.osx-arm64.4.13.0.16.nupkg",
-        "sha512": "783fcbc5c6966e6e591b660fe4347c440e04eefdf576cbb877513050068fcfb5156125854383ae42ef5a3e14571221bc3cd96752572f5b676778155578625ab2",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-arm64/4.13.0.17/oneware.opencvsharp4.runtime.osx-arm64.4.13.0.17.nupkg",
+        "sha512": "1de01c78378294b9c706e8f07826af425acc167040abd60a6e1f390ef20ee491da10891e1dd9aed231dc4ca69e39decf1e5b39fb5fed2d2cf9ed788069e49a22",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.osx-arm64.4.13.0.16.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.osx-arm64.4.13.0.17.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-x64/4.13.0.16/oneware.opencvsharp4.runtime.osx-x64.4.13.0.16.nupkg",
-        "sha512": "639734e84d5810787b10cb9ef0c434732e21b57515e1e2950a3aa3c8e7c1517dbfbde8e948a88ae6a0af44450ced24e996ef1334640c971e710d549323d00a71",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-x64/4.13.0.17/oneware.opencvsharp4.runtime.osx-x64.4.13.0.17.nupkg",
+        "sha512": "bad13b58deaf3a9c49f98573c81e19d921cecbd682ea87c92af38da417d26bcc82b7caf73b4f78c0226d5c377dd9f3308b783a58a24bf555b1ce6875a34048c7",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.osx-x64.4.13.0.16.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.osx-x64.4.13.0.17.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64/4.13.0.16/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.16.nupkg",
-        "sha512": "7800d43c05a295e7a6a083e18043fec9e44b9254dac3438bf2bfb719f9aa20965e062cb0f76462bb3bd75198ddfcbd2df8f1ea0703a3acca2e07ccc72dc03906",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64/4.13.0.17/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.17.nupkg",
+        "sha512": "fd9bea1e4a48cb1161b3c71189fe6ef738a00cbc3a9cf6d1b41d6718eed8e1991da448f5c95070ce8b00cd06e376e8ab380a2926efa6f8a6ecc0930118e0411a",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.16.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.17.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.13.0.16/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.16.nupkg",
-        "sha512": "15e9a9a765c1910e8d858b3e71f9a1637d42e8a8afa0c625e2b000485d9290c51c8b583370c316d923f350f699b4de5f05fdcdf4ed68ffd1d7d4ff0b3cc9fc0e",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.13.0.17/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.17.nupkg",
+        "sha512": "2eb7c8698fb3d1c30687f39bd074796c5e7c9fb783152401cb226d1db52f901178cae2ae0fa5cf7f76838b63fbe386645c295dc921cba17944590ef8b7fc11ee",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.16.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.17.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-arm64/4.13.0.16/oneware.opencvsharp4.runtime.win-arm64.4.13.0.16.nupkg",
-        "sha512": "7332cbbdf0c92fa45c8066b121e1baaf5b1a77e22698ad5b96011fadfdce7a89ae9aaf1adc5460c52a0bf93027a8291a1657b07a42d630c6d5884a53b74fa2fa",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-arm64/4.13.0.17/oneware.opencvsharp4.runtime.win-arm64.4.13.0.17.nupkg",
+        "sha512": "eac573ec9a919b3f7e1e3077a24220275f0c8a8fd8d6d2cf2996f06250a3bd2503a97268ccccb73fa800d3559e95a9207276e00787fa77988ce866f8ce1591b2",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.win-arm64.4.13.0.16.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.win-arm64.4.13.0.17.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-x64/4.13.0.16/oneware.opencvsharp4.runtime.win-x64.4.13.0.16.nupkg",
-        "sha512": "352770af2e2f4c0a36f6843c6c9022908416c07769bbd925f78c922e224ebd201f4a4996872aed3bf32457a99b1bb858544fdfd287ec7038652492e5a0b016c1",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-x64/4.13.0.17/oneware.opencvsharp4.runtime.win-x64.4.13.0.17.nupkg",
+        "sha512": "2e4b0936945e00bff8c58730e56346afa6fdcf6fdda79169a80eed9b7b341fea1e0df06132e90ce8d3317c2b345d0a1074a58de017fc4245978378c833d11b37",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.win-x64.4.13.0.16.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.win-x64.4.13.0.17.nupkg"
     },
     {
         "type": "file",
