@@ -288,17 +288,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/github.copilot.sdk/0.1.22/github.copilot.sdk.0.1.22.nupkg",
-        "sha512": "69172067067f5de0f64728aa35e5ca625c1dfce700cc776afe87e485251ac3954627a20a2797b588942d73c18b2e3579567e1104047470322daac93902da6621",
+        "url": "https://api.nuget.org/v3-flatcontainer/github.copilot.sdk/0.1.29/github.copilot.sdk.0.1.29.nupkg",
+        "sha512": "e52b9c1b827e6126a0ef69025ce4ac1712cb99ba9e82e08e2ee505ea2d1ce62ad8dce8c63d2b2cd9771957c280d0eee0ac9500fb3dc2a42aaa4ecf3b34621d5b",
         "dest": "nuget-sources",
-        "dest-filename": "github.copilot.sdk.0.1.22.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/github.copilot.sdk/0.1.25/github.copilot.sdk.0.1.25.nupkg",
-        "sha512": "0bad6e533a6a79e4aafa13487c6eb555f55d47504e8fc19c6a0835597534d728aa89bcba7d6a2f4c42c6b1503905b9f681005a9b37ac9d181ef9dc3a2d5e5b2d",
-        "dest": "nuget-sources",
-        "dest-filename": "github.copilot.sdk.0.1.25.nupkg"
+        "dest-filename": "github.copilot.sdk.0.1.29.nupkg"
     },
     {
         "type": "file",
@@ -939,45 +932,45 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-arm64/4.13.0.17/oneware.opencvsharp4.runtime.osx-arm64.4.13.0.17.nupkg",
-        "sha512": "1de01c78378294b9c706e8f07826af425acc167040abd60a6e1f390ef20ee491da10891e1dd9aed231dc4ca69e39decf1e5b39fb5fed2d2cf9ed788069e49a22",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-arm64/4.13.0.18/oneware.opencvsharp4.runtime.osx-arm64.4.13.0.18.nupkg",
+        "sha512": "f1b5a750841eec2329bb873395280cce754872613fe42842ee8df97bbd111a73f18474b2b0d789a3567d76c79f5adbcf0e5a307fdb3156969ec1440c7b6069ac",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.osx-arm64.4.13.0.17.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.osx-arm64.4.13.0.18.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-x64/4.13.0.17/oneware.opencvsharp4.runtime.osx-x64.4.13.0.17.nupkg",
-        "sha512": "bad13b58deaf3a9c49f98573c81e19d921cecbd682ea87c92af38da417d26bcc82b7caf73b4f78c0226d5c377dd9f3308b783a58a24bf555b1ce6875a34048c7",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-x64/4.13.0.18/oneware.opencvsharp4.runtime.osx-x64.4.13.0.18.nupkg",
+        "sha512": "b38aaddea183469a5663734d70fa1ab952792fd68bcb40134f7a4512930bf8526d2e22479dd3c90306a7430514d47d07871f6065a7166512237c374c1c94cd3d",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.osx-x64.4.13.0.17.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.osx-x64.4.13.0.18.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64/4.13.0.17/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.17.nupkg",
-        "sha512": "fd9bea1e4a48cb1161b3c71189fe6ef738a00cbc3a9cf6d1b41d6718eed8e1991da448f5c95070ce8b00cd06e376e8ab380a2926efa6f8a6ecc0930118e0411a",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64/4.13.0.18/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.18.nupkg",
+        "sha512": "2e18fdfa1cf09a0e594156b0dc2312da690d1c3edbd5ed959a2c342996afd985b8d714a771613491dd72fcf39788f6c2879ba043bae94196b348691fee746a1d",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.17.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.18.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.13.0.17/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.17.nupkg",
-        "sha512": "2eb7c8698fb3d1c30687f39bd074796c5e7c9fb783152401cb226d1db52f901178cae2ae0fa5cf7f76838b63fbe386645c295dc921cba17944590ef8b7fc11ee",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.13.0.18/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.18.nupkg",
+        "sha512": "13f9dcdbbd7fa828549f85a1b8662a789d4c7fdaccc0a4b65bf32db6e0bf61044c121a8e480939a358734e464f9379ff561b52ba6fcefc3bc6c58126c7a7a937",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.17.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.18.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-arm64/4.13.0.17/oneware.opencvsharp4.runtime.win-arm64.4.13.0.17.nupkg",
-        "sha512": "eac573ec9a919b3f7e1e3077a24220275f0c8a8fd8d6d2cf2996f06250a3bd2503a97268ccccb73fa800d3559e95a9207276e00787fa77988ce866f8ce1591b2",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-arm64/4.13.0.18/oneware.opencvsharp4.runtime.win-arm64.4.13.0.18.nupkg",
+        "sha512": "0dfef0efcaeb003f1ce0031e5d60098814f35364a7d894f11a3a2b42b84754fd00f7cd02426759b751dfd18afc76d9773e89d5e6a81398e56fbad39f50889717",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.win-arm64.4.13.0.17.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.win-arm64.4.13.0.18.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-x64/4.13.0.17/oneware.opencvsharp4.runtime.win-x64.4.13.0.17.nupkg",
-        "sha512": "2e4b0936945e00bff8c58730e56346afa6fdcf6fdda79169a80eed9b7b341fea1e0df06132e90ce8d3317c2b345d0a1074a58de017fc4245978378c833d11b37",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-x64/4.13.0.18/oneware.opencvsharp4.runtime.win-x64.4.13.0.18.nupkg",
+        "sha512": "b30cb9f3059d6929a580552551e416bf9e78bffbf7cc2acb68012933870036398687b35533dbf2c4c74cc61f5c9d3ab87b04e10f580395fedef4942ef07fd776",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.win-x64.4.13.0.17.nupkg"
+        "dest-filename": "oneware.opencvsharp4.runtime.win-x64.4.13.0.18.nupkg"
     },
     {
         "type": "file",
