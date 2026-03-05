@@ -701,13 +701,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-arm64/10.0.3/microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg",
-        "sha512": "7ffb7454f05180c3abc6f72e18a42a9be5d7137dd15fbadd320354facd88349ed7f722f40d4d0f6070c6f446781b37a00a913313eb7f2d9d0959699b585dde75",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-arm64/10.0.3/microsoft.netcore.app.runtime.linux-arm64.10.0.3.nupkg",
         "sha512": "de3a9896270df83170ed8a401dadb5a206dd0b381e29b84934e7a06611707cc841f9c855a3df840d804f90c8dbd1d4efa5a362cc13347efc2760e9be2cad89d7",
         "dest": "nuget-sources",
