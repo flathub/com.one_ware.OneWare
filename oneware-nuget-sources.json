@@ -78,13 +78,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.controls.treedatagrid/11.1.1/avalonia.controls.treedatagrid.11.1.1.nupkg",
-        "sha512": "1ebed34c2d584e564702a8349894436b79b8d44f61e3f28bfd22b26add39d16bfefc95a7ba704c669f8b575ff52842e66d250841445045bbbb5cb6d5396ce60e",
-        "dest": "nuget-sources",
-        "dest-filename": "avalonia.controls.treedatagrid.11.1.1.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/avalonia.desktop/11.3.12/avalonia.desktop.11.3.12.nupkg",
         "sha512": "2a5c144645e51840953c822903bb9db9cd64d9bf8e3ab128a9e7ef731443a570075eecf6f1c5a7700a4836c223fb14223f1db08bd56c4c25c5cac48030872d38",
         "dest": "nuget-sources",
@@ -698,6 +691,13 @@
         "sha512": "774d585a8af10b08209118d2ec912893cdf808f2ce9bd66f126f0a4983e7c60b2577f6e23a7ef736b13701d85a77e2063e507bf130ad37cea2053f7b92126cd0",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.netcore.app.crossgen2.linux-x64.10.0.3.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-arm64/10.0.3/microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg",
+        "sha512": "7ffb7454f05180c3abc6f72e18a42a9be5d7137dd15fbadd320354facd88349ed7f722f40d4d0f6070c6f446781b37a00a913313eb7f2d9d0959699b585dde75",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.netcore.app.host.linux-arm64.10.0.3.nupkg"
     },
     {
         "type": "file",
@@ -1755,6 +1755,13 @@
         "sha512": "f5eac7b316e7da796ad6fe7d361f0f24fb9bd591a7f3b3b163105f6295a2f31a938a6d6b5f1d1b06a8e57437cba30f7d25795e9a2892870398d76cb8c19b7fee",
         "dest": "nuget-sources",
         "dest-filename": "tmds.dbus.protocol.0.23.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/treedatagrid/11.3.12/treedatagrid.11.3.12.nupkg",
+        "sha512": "23898f5c243a8322f893fcb5b3487f449923f8af2c8b4e191f25e50d920acdb4521e2fc6d645a23feae673f980b33c4753f873d124a7544988ea47b7cf72562d",
+        "dest": "nuget-sources",
+        "dest-filename": "treedatagrid.11.3.12.nupkg"
     },
     {
         "type": "file",
