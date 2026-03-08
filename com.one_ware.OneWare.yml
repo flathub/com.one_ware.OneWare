@@ -78,8 +78,8 @@ modules:
         url: https://github.com/one-ware/OneWare.git
         disable-shallow-clone: true
         dest: source
-        tag: 1.0.11
-        commit: 5728fd464e04473e05e51d295aba2ade60a00746
+        tag: 1.0.12
+        commit: 40e7b11c13c926c35bd63124d1301ad43d59a8d4
       - type: script
         dest-filename: oneware
         commands:
