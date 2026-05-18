@@ -1,21 +1,21 @@
 app-id: com.one_ware.OneWare
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
   - org.freedesktop.Sdk.Extension.dotnet10
 
 build-options:
-  prepend-path: "/usr/lib/sdk/dotnet10/bin"
-  append-ld-library-path: "/usr/lib/sdk/dotnet10/lib"
-  prepend-pkg-config-path: "/usr/lib/sdk/dotnet10/lib/pkgconfig"
+  prepend-path: /usr/lib/sdk/dotnet10/bin
+  append-ld-library-path: /usr/lib/sdk/dotnet10/lib
+  prepend-pkg-config-path: /usr/lib/sdk/dotnet10/lib/pkgconfig
   arch:
     aarch64:
       env:
-        RUNTIME: "linux-arm64"
+        RUNTIME: linux-arm64
     x86_64:
       env:
-        RUNTIME: "linux-x64"
+        RUNTIME: linux-x64
 
 command: oneware
 separate-locales: false
@@ -28,9 +28,6 @@ finish-args:
   - --filesystem=home
   - --talk-name=org.freedesktop.secrets
 modules:
-
-  # Libsecret
-  - shared-modules/libsecret/libsecret.json
 
   # Git
   - name: git
@@ -61,7 +58,7 @@ modules:
       - type: archive
         url: https://linuxtv.org/downloads/v4l-utils/v4l-utils-1.22.0.tar.bz2
         sha256: 1069e5d7909bcc563baeaadc3a5c496f0e658524c413cf7818816e37bfcea344
-        
+
   # OneWare build module
   - name: oneware
     buildsystem: simple
@@ -69,9 +66,9 @@ modules:
       - dotnet publish --source nuget-sources -c Release -r $RUNTIME -o ./studio ./source/studio/OneWare.Studio.Desktop/OneWare.Studio.Desktop.csproj
       - install -D -m755 oneware ${FLATPAK_DEST}/bin/oneware
       - install -D -m644 studio/${FLATPAK_ID}.mime.xml ${FLATPAK_DEST}/share/mime/packages/${FLATPAK_ID}-mime.xml
-      - install -D -m644 studio/${FLATPAK_ID}.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
-      - install -D -m644 studio/Assets/${FLATPAK_ID}.svg ${FLATPAK_DEST}/share/icons/hicolor/scalable/apps/${FLATPAK_ID}.svg
-      - install -D -m644 studio/${FLATPAK_ID}.metainfo.xml ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
+      - install -D -m644 studio/${FLATPAK_ID}.desktop -t ${FLATPAK_DEST}/share/applications/
+      - install -D -m644 studio/Assets/${FLATPAK_ID}.svg -t ${FLATPAK_DEST}/share/icons/hicolor/scalable/apps/
+      - install -D -m644 studio/${FLATPAK_ID}.metainfo.xml -t ${FLATPAK_DEST}/share/metainfo/
       - cp -r studio ${FLATPAK_DEST}/bin/studio
     sources:
       - type: git
@@ -80,6 +77,8 @@ modules:
         dest: source
         tag: 1.0.15
         commit: 2d51e0e25b5c6e1a9c32d272bc74a8afa81dbf9f
+      - type: patch
+        path: fix-appdata.patch
       - type: script
         dest-filename: oneware
         commands:

@@ -1,0 +1,57 @@
+From 0dafaf4757579ed7e84f8d3e0483a3ec036c9a17 Mon Sep 17 00:00:00 2001
+From: Sabri Ünal <yakushabb@gmail.com>
+Date: Mon, 18 May 2026 01:52:05 +0300
+Subject: [PATCH] Fix appdata paper cuts
+
+Signed-off-by: Sabri Ünal <yakushabb@gmail.com>
+---
+ source/studio/OneWare.Studio.Desktop/com.one_ware.OneWare.metainfo.xml | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+
+diff --git a/source/studio/OneWare.Studio.Desktop/com.one_ware.OneWare.metainfo.xml b/source/studio/OneWare.Studio.Desktop/com.one_ware.OneWare.metainfo.xml
+index 6eb45a1..46c2343 100644
+--- a/source/studio/OneWare.Studio.Desktop/com.one_ware.OneWare.metainfo.xml
++++ b/source/studio/OneWare.Studio.Desktop/com.one_ware.OneWare.metainfo.xml
+@@ -32,26 +32,26 @@
+     </description>
+     <url type="homepage">https://one-ware.com/studio</url>
+     <url type="bugtracker">https://github.com/one-ware/OneWare/issues</url>
+-    <url type="help">https://one-ware.com/docs/studio/tutorials/create-project</url>
+-    <url type="contact">https://one-ware.com/docs/contact</url>
++    <url type="help">https://one-ware.com/docs/</url>
++    <url type="contact">https://one-ware.com/docs/legal/contact/</url>
+     <url type="vcs-browser">https://github.com/one-ware/OneWare</url>
+     <screenshots>
+         <screenshot type="default">
+-            <image>https://one-ware.com/img/studio/slides2/completion.png</image>
++            <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9jb20vb25lX3dhcmUvT25lV2FyZS83Y2JmYTExOTMzNGU0NTY5MmI0NWVjODgzZTAyZDViOC9zY3JlZW5zaG90cy9pbWFnZS0xX29yaWcucG5n</image>
+             <caption>Code Editor for HDL languages</caption>
+         </screenshot>
+         <screenshot>
+-            <image>https://one-ware.com/img/studio/slides2/hardware.png</image>
++            <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9jb20vb25lX3dhcmUvT25lV2FyZS83Y2JmYTExOTMzNGU0NTY5MmI0NWVjODgzZTAyZDViOC9zY3JlZW5zaG90cy9pbWFnZS0yX29yaWcucG5n</image>
+             <caption>Support for a wide range of hardware</caption>
+         </screenshot>
+         <screenshot>
+-            <image>https://one-ware.com/img/studio/slides2/simulator.png</image>
++            <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9jb20vb25lX3dhcmUvT25lV2FyZS83Y2JmYTExOTMzNGU0NTY5MmI0NWVjODgzZTAyZDViOC9zY3JlZW5zaG90cy9pbWFnZS0zX29yaWcucG5n</image>
+             <caption>Integrated support for simulation using the VCD format and all the popular
+                 simulation tools
+             </caption>
+         </screenshot>
+         <screenshot>
+-            <image>https://one-ware.com/img/studio/slides2/extensions.png</image>
++            <image>https://imgproxy.flathub.org/insecure/dpr:2/f:avif/rs:fill-down/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9jb20vb25lX3dhcmUvT25lV2FyZS83Y2JmYTExOTMzNGU0NTY5MmI0NWVjODgzZTAyZDViOC9zY3JlZW5zaG90cy9pbWFnZS00X29yaWcucG5n</image>
+             <caption>A growing collection of useful extensions</caption>
+         </screenshot>
+     </screenshots>
+@@ -132,4 +132,4 @@
+         <keyword>vhdl editor</keyword>
+         <keyword>verilog simulator</keyword>
+     </keywords>
+-</component>
+\ No newline at end of file
++</component>
+--
+libgit2 1.7.2
+
