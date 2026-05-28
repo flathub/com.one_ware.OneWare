@@ -79,7 +79,7 @@ modules:
         disable-shallow-clone: true
         dest: source
         tag: 1.0.16
-        commit: 3d2ed6007cc64b9dbf1166668e5ec6a451b44f78
+        commit: 5f34147881b78311510a47041390d4cb79105dc4
       - type: script
         dest-filename: oneware
         commands:
