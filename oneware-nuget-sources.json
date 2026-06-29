@@ -302,10 +302,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/github.copilot.sdk/1.0.0/github.copilot.sdk.1.0.0.nupkg",
-        "sha512": "27ae40d2fc518315d00046da48fe1c82432b132fa0e07e2afc171f09d46b82080103819c7935eeffd312f07c6fbc8537a2ef84c1962ae2089354a9da0c313f11",
+        "url": "https://api.nuget.org/v3-flatcontainer/github.copilot.sdk/1.0.3/github.copilot.sdk.1.0.3.nupkg",
+        "sha512": "362d0d2bbce706915db316e4cb1a49604c0580717b24f249537629726ea49ee30dd12b42dad8e132470d9436761eed69adfe96d7f546b782d2a399dd0ddb06f6",
         "dest": "nuget-sources",
-        "dest-filename": "github.copilot.sdk.1.0.0.nupkg"
+        "dest-filename": "github.copilot.sdk.1.0.3.nupkg"
     },
     {
         "type": "file",
