@@ -834,38 +834,38 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.colordocument.avalonia/11.3.11.3/oneware.colordocument.avalonia.11.3.11.3.nupkg",
-        "sha512": "d98efc4ad4e91490d7f7ec4a4fbf50359ef3d5dc6fc897a3021713312c811428a875d26d459a9486d87087628e3cc72ac6cf70eddacdeae23afcd29fcf533501",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.colordocument.avalonia/11.3.11.4/oneware.colordocument.avalonia.11.3.11.4.nupkg",
+        "sha512": "bb42771e4d5ac29f3aecd862131d134552d7beb7ed33f3a485cc3379054dde30527409cce8f5c835160b86b7f971d2d87e1427e6ec9dea1a11a7e0b9530c018b",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.colordocument.avalonia.11.3.11.3.nupkg"
+        "dest-filename": "oneware.colordocument.avalonia.11.3.11.4.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.colortextblock.avalonia/11.3.11.3/oneware.colortextblock.avalonia.11.3.11.3.nupkg",
-        "sha512": "57244af5e89435ff2588506762572b56c000d3d6a4fbc8287f0a44e8150860484f5aca62b043d1f33c20bd6bdb8ce577612470faadd6d0b608319157cef99942",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.colortextblock.avalonia/11.3.11.4/oneware.colortextblock.avalonia.11.3.11.4.nupkg",
+        "sha512": "ea4170edeb34132b263f667b7701824be9f45d1da76fc252e278026d7af26baa33925183cf5d06f23d3688907c6d72eb856318223411ad6d774645233c7dc85c",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.colortextblock.avalonia.11.3.11.3.nupkg"
+        "dest-filename": "oneware.colortextblock.avalonia.11.3.11.4.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.markdown.avalonia.svg/11.3.11.3/oneware.markdown.avalonia.svg.11.3.11.3.nupkg",
-        "sha512": "a9bc1f09b22b4428e62f18acc5e74ec5372d9da7d839936557d21951c87d59db900aa55a7298c6f14bf3477ac5f58dd6bd7846d422590bbb55fc1389055c02d0",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.markdown.avalonia.svg/11.3.11.4/oneware.markdown.avalonia.svg.11.3.11.4.nupkg",
+        "sha512": "1a7ca03126e1e51ed27e4902c10236a0f064c0b5c4e4766be83e7844754c7bb32b0922a0d0a843a2b5762b1c142605e9e07ee66d44a9089025106f5827d7ddbc",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.markdown.avalonia.svg.11.3.11.3.nupkg"
+        "dest-filename": "oneware.markdown.avalonia.svg.11.3.11.4.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.markdown.avalonia.syntaxhigh/11.3.11.3/oneware.markdown.avalonia.syntaxhigh.11.3.11.3.nupkg",
-        "sha512": "e566172a7c6f9633d13f69058c322e0e01f199e312ee5507ac3a1ccfff6916de04cfc120204269d9314feb7a6bd3b62f9798418a52fe9c4a0096ad6a6057b7e5",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.markdown.avalonia.syntaxhigh/11.3.11.4/oneware.markdown.avalonia.syntaxhigh.11.3.11.4.nupkg",
+        "sha512": "b1cf746d0d61e75469a86e2e3f67101ca3895eaa56762cbef1282508901d1434f768507b77b82f671b508180f78fa4f60a750202efee1ac87f1941083353eb33",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.markdown.avalonia.syntaxhigh.11.3.11.3.nupkg"
+        "dest-filename": "oneware.markdown.avalonia.syntaxhigh.11.3.11.4.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.markdown.avalonia.tight/11.3.11.3/oneware.markdown.avalonia.tight.11.3.11.3.nupkg",
-        "sha512": "dd30a20bb87bdb0edabece5d01501f323d9a9350fbefd5d10b920c6fa1b1e1ec5bac87398524603f22c82fb62bb150437cd765fcb4809e127e87d9f84e102994",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.markdown.avalonia.tight/11.3.11.4/oneware.markdown.avalonia.tight.11.3.11.4.nupkg",
+        "sha512": "eb55e92046f053e61c305758784bc08f9e640b3ec84bb9e596b9f7079caf4cdecb1c78a19548fcfcd043d813b2e32c90f3852f705dbef1c5111b118641db646e",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.markdown.avalonia.tight.11.3.11.3.nupkg"
+        "dest-filename": "oneware.markdown.avalonia.tight.11.3.11.4.nupkg"
     },
     {
         "type": "file",
@@ -1289,10 +1289,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sharpcompress/0.47.4/sharpcompress.0.47.4.nupkg",
-        "sha512": "3ada5b9b2882baf2afb7df90671b80a331820f9518ac3ab6123193badbcb8c749a4e8191799a8aec6abbeffcf4a64bba8960ea24a2c507dacfd4eae7b5c1e363",
+        "url": "https://api.nuget.org/v3-flatcontainer/sharpcompress/0.49.1/sharpcompress.0.49.1.nupkg",
+        "sha512": "0e851e24d1920c90dd1c4d44d4324b3dda60c355e7bc17f1c7c6d02cc9e936d123a6d69f0f1d4366d19748425b4be19a697dd0ae67a23fe84392cd87792d127a",
         "dest": "nuget-sources",
-        "dest-filename": "sharpcompress.0.47.4.nupkg"
+        "dest-filename": "sharpcompress.0.49.1.nupkg"
     },
     {
         "type": "file",
