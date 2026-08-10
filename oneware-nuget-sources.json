@@ -372,17 +372,17 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/libgit2sharp/0.31.0/libgit2sharp.0.31.0.nupkg",
-        "sha512": "56aa3185eb2213d97bd6b56e2d1803aa76945bf732b77c7a4b40359d4809ee0bd2cca795fc81d762958f741ba12e3f58675eabd3d76d7930476f1190a7bc1816",
+        "url": "https://api.nuget.org/v3-flatcontainer/libgit2sharp/0.32.0/libgit2sharp.0.32.0.nupkg",
+        "sha512": "e4547f25e27f7b8ee44aa67f48c236be0abfc7942c480718374daf864dd30f5398ede3ffc02dfa0fcfdfc51b6efc58fcc6a3883f65e2a288c7c6ca3ab188acb8",
         "dest": "nuget-sources",
-        "dest-filename": "libgit2sharp.0.31.0.nupkg"
+        "dest-filename": "libgit2sharp.0.32.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/libgit2sharp.nativebinaries/2.0.323/libgit2sharp.nativebinaries.2.0.323.nupkg",
-        "sha512": "aa06f25b9cc62619eed349ca50385c78bd0fcef2b7e510febcc5ae63e79c297b24370302f7e54862c238c30b7aab905445aca9426fbb05cf20f0f185cbe74110",
+        "url": "https://api.nuget.org/v3-flatcontainer/libgit2sharp.nativebinaries/2.0.324/libgit2sharp.nativebinaries.2.0.324.nupkg",
+        "sha512": "12d41802ea5cd506baf7a0f1e44365bdffab3e664e3d6866c66c0578a5afe33507b581b899e2ffcc94c6928439dfc42b88d66fda162998134d470fe8e2cda01e",
         "dest": "nuget-sources",
-        "dest-filename": "libgit2sharp.nativebinaries.2.0.323.nupkg"
+        "dest-filename": "libgit2sharp.nativebinaries.2.0.324.nupkg"
     },
     {
         "type": "file",
@@ -698,13 +698,6 @@
         "sha512": "4e7f439f306c864ea01e9fcf3dee441fe80608e3352e3254617412217cebd8823d9399bc243494f2735d53425a3f16dcdff7bdd7fcda902755e2801feaa7f03c",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.netcore.app.crossgen2.linux-x64.10.0.8.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-arm64/10.0.8/microsoft.netcore.app.host.linux-arm64.10.0.8.nupkg",
-        "sha512": "ae24beb661e6bebd44ab8b2b6c020f4b8b7e3e6b9057dbd5d06f34f10df10ec0211c0d97ca0a6f1eebf73494594eab83c83ac1e447206b8348ebe4a4ff86c219",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.host.linux-arm64.10.0.8.nupkg"
     },
     {
         "type": "file",
