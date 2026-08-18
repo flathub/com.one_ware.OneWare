@@ -365,10 +365,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/jint/4.11.0/jint.4.11.0.nupkg",
-        "sha512": "21af58a4a5847900ffdcaaa8820c7bf54390c8e6c501fa3774757ffda993257feb10722af7bfb957272502e3b5677b8d24efeda0fa68a05a147b21e407c49d99",
+        "url": "https://api.nuget.org/v3-flatcontainer/jint/4.15.3/jint.4.15.3.nupkg",
+        "sha512": "e4d093adb45f84831cfc0f15fa92082d69bf8691ee73da72704ef8682d9c70f30d243da05bc30894719d4c3103150102ee885efb7cda64f198031b1f956039ee",
         "dest": "nuget-sources",
-        "dest-filename": "jint.4.11.0.nupkg"
+        "dest-filename": "jint.4.15.3.nupkg"
     },
     {
         "type": "file",
@@ -698,6 +698,13 @@
         "sha512": "4e7f439f306c864ea01e9fcf3dee441fe80608e3352e3254617412217cebd8823d9399bc243494f2735d53425a3f16dcdff7bdd7fcda902755e2801feaa7f03c",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.netcore.app.crossgen2.linux-x64.10.0.8.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-arm64/10.0.8/microsoft.netcore.app.host.linux-arm64.10.0.8.nupkg",
+        "sha512": "ae24beb661e6bebd44ab8b2b6c020f4b8b7e3e6b9057dbd5d06f34f10df10ec0211c0d97ca0a6f1eebf73494594eab83c83ac1e447206b8348ebe4a4ff86c219",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.netcore.app.host.linux-arm64.10.0.8.nupkg"
     },
     {
         "type": "file",
@@ -1261,10 +1268,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/serilog/4.3.1/serilog.4.3.1.nupkg",
-        "sha512": "80a60ce6f1885a136fc2050fa876a51f9a3eb88379f5773cb538f9b10842a3cbec693a2782da24d5bd478a1419d5414420ad9371a19374b05e4295bdbdaa753c",
+        "url": "https://api.nuget.org/v3-flatcontainer/serilog/4.4.0/serilog.4.4.0.nupkg",
+        "sha512": "431aa9d7b719fad2a08284352a798c672b5b58a1ca6b3869572e78957cbcb62ae03e1070b161bc3d8755a2143b33789f006c45f4dceae85ddbcbab511b6c6d64",
         "dest": "nuget-sources",
-        "dest-filename": "serilog.4.3.1.nupkg"
+        "dest-filename": "serilog.4.4.0.nupkg"
     },
     {
         "type": "file",
