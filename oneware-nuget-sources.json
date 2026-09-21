@@ -43,10 +43,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia/11.3.20/avalonia.11.3.20.nupkg",
-        "sha512": "c7877f9c316c0e912356034275c5f27a2fed1c15436dadf0de93a9cc8a82fd2ad6987269ea2ce56593858cd0b12904060ff78028e2d5853a5420177a16b069f2",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia/11.3.22/avalonia.11.3.22.nupkg",
+        "sha512": "d4938df7771526527efaf7662ba50b9bfcd930fa73544660a08622c062d27f50746e561559d1f1bf365c39a5f707a79a7fd6030d0a42a6f88b10f0a30ae3e09c",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.11.3.20.nupkg"
+        "dest-filename": "avalonia.11.3.22.nupkg"
     },
     {
         "type": "file",
@@ -78,10 +78,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.controls.colorpicker/11.3.20/avalonia.controls.colorpicker.11.3.20.nupkg",
-        "sha512": "0696a4e4d9c8cb6191171ab20cee9af5ba4e6e7daad397a2ec8198a49022da6763251b3b33015b26778845eeae4e75e1e510f53e9d0897bcb3789f7c643ed94e",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.controls.colorpicker/11.3.22/avalonia.controls.colorpicker.11.3.22.nupkg",
+        "sha512": "725767dca70c77fa178ee822d57a68f10f358fbb17996ba0082ed83b24da05b86d2b3b9fa2c7dc5e4778621a609ea65cc4656168664f96ba0edc4bf346785d55",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.controls.colorpicker.11.3.20.nupkg"
+        "dest-filename": "avalonia.controls.colorpicker.11.3.22.nupkg"
     },
     {
         "type": "file",
@@ -92,31 +92,31 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.desktop/11.3.20/avalonia.desktop.11.3.20.nupkg",
-        "sha512": "6ea7af3f7175f82544d5c7c3ef9692f393a290ae579b3715d301e73dbc43a49240b4ed5cbece6c315e35b81561f04b073a4b8ed5d13a5ba04cf805ed42244085",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.desktop/11.3.22/avalonia.desktop.11.3.22.nupkg",
+        "sha512": "fe6b2d77b1fac2a63b9d8b4163369ed7dc3d8c64d909221e5d0fa4b43f1dca08e49640cf92b2a2fbea833a97aa9e77eb4b8d3cf252b4e482c249353817218a0a",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.desktop.11.3.20.nupkg"
+        "dest-filename": "avalonia.desktop.11.3.22.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.diagnostics/11.3.20/avalonia.diagnostics.11.3.20.nupkg",
-        "sha512": "e6fedb65e03c8833356c9c857d05d941a6e4a885af8bb05da49200971b89deacf654db8323cded17884cc5087979392c02f4a75cc56ec4addb16f97dcaec058b",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.diagnostics/11.3.22/avalonia.diagnostics.11.3.22.nupkg",
+        "sha512": "7fde054866918aefdb324a08490f76f24baf1457e00300d751381384e5969b51ceb301d6146e689753d7ea83493dae0a4ce25e6e25d4d2dcbdb3c3a3beb33eb5",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.diagnostics.11.3.20.nupkg"
+        "dest-filename": "avalonia.diagnostics.11.3.22.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.freedesktop/11.3.20/avalonia.freedesktop.11.3.20.nupkg",
-        "sha512": "222d187f95b6266db1560ca42adf7a4ef737aac3f6e2eafb496b2e56eef1424f41801041a0bc575b6f5ee5921a94cae2720afb49df996f9938425c4a86b81abd",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.freedesktop/11.3.22/avalonia.freedesktop.11.3.22.nupkg",
+        "sha512": "7151e56ca2542ef9bb109c9fde3e821e3d3337622b4dc103b4905f4beae58bbd736eb1a721d0248f7182b4d479bc79070e1416613ca7c8399c7bc9c4ee305b76",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.freedesktop.11.3.20.nupkg"
+        "dest-filename": "avalonia.freedesktop.11.3.22.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.native/11.3.20/avalonia.native.11.3.20.nupkg",
-        "sha512": "d6f52cfd87e483bef05f24472e91b8c74c42938ec210d73a0112e2e0a51c000b53159e1921e90d9df88165115e01aba2c49843d52baad8d1498db5fa322e6fe3",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.native/11.3.22/avalonia.native.11.3.22.nupkg",
+        "sha512": "d0dd91fb24b0417ee9d3f35d285c7ab8c899c16ea478562c340041117e3576298acd0e0e190f9a999750a86d0dd1c8741f108dd8900737b38a03ad395dee7e58",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.native.11.3.20.nupkg"
+        "dest-filename": "avalonia.native.11.3.22.nupkg"
     },
     {
         "type": "file",
@@ -134,10 +134,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.remote.protocol/11.3.20/avalonia.remote.protocol.11.3.20.nupkg",
-        "sha512": "3652e1591ee3cdf1184531e7c003e8303d55e2c78f4eed4eaade362690fca8c3ebad74c435cb83acd83def0373067bacb00a098265b3975e4e38751b7f9937d6",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.remote.protocol/11.3.22/avalonia.remote.protocol.11.3.22.nupkg",
+        "sha512": "2721b5e7629bc5179f99449a6314d6e69046fe1cf214f175500187e3b8c7c8e1663988e306134f67d6d0ad9c30fe2425050d59dbde8a0a4e5fbe4fd99ed69795",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.remote.protocol.11.3.20.nupkg"
+        "dest-filename": "avalonia.remote.protocol.11.3.22.nupkg"
     },
     {
         "type": "file",
@@ -148,10 +148,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.skia/11.3.20/avalonia.skia.11.3.20.nupkg",
-        "sha512": "6d0b95e9d788a94917f3341fa60fdc1b75482a94d80bb7102df64689d0f740760587c8f91a789443a3e105d785e2a69833d2a2399b8189b7b5a97e9b19370fab",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.skia/11.3.22/avalonia.skia.11.3.22.nupkg",
+        "sha512": "1daf4e2b2b86ff35796f2a40a3461c12983df95190dcc6a0f6427be74cb0175bcb4128196b7b62be7ec827b0f935a16446ee988fe833938b461034a30e0a9016",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.skia.11.3.20.nupkg"
+        "dest-filename": "avalonia.skia.11.3.22.nupkg"
     },
     {
         "type": "file",
@@ -162,24 +162,24 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.themes.simple/11.3.20/avalonia.themes.simple.11.3.20.nupkg",
-        "sha512": "e14d3d277ddc85274bac488ccbe7f4d37442876c46715b0f8d49091de706ce4b0689598dab0e9e773d5e2bb6091ee96bc1d651bf0a410b750340e14dda65aa20",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.themes.simple/11.3.22/avalonia.themes.simple.11.3.22.nupkg",
+        "sha512": "2b1aa270fe9294039a20f84346c5f8c6a5b2140d631f00c7a2920925d952443277d9ae8930f3f4240461112d71413a1312c03356551e74274b929e417cae8b87",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.themes.simple.11.3.20.nupkg"
+        "dest-filename": "avalonia.themes.simple.11.3.22.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.win32/11.3.20/avalonia.win32.11.3.20.nupkg",
-        "sha512": "12f988b55d59ee07c45e0e41491a380dfe31c7b42c6f3512ae29bcde337a83dd22c4a99e51582e96ff4d5b83decd4870943a52d81d97e45425c0fb16dd831099",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.win32/11.3.22/avalonia.win32.11.3.22.nupkg",
+        "sha512": "de7805544c7e5637ce799045812df50134b185d6ce556f4b6974cba9febe40f5b6aea714825262c3025c6e4dcadb7d248a88d2f056625093940ed216368b2aeb",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.win32.11.3.20.nupkg"
+        "dest-filename": "avalonia.win32.11.3.22.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.x11/11.3.20/avalonia.x11.11.3.20.nupkg",
-        "sha512": "51fb969ff6f4feba350bbcb7941c5c183406ed752ff3d78fcc1c71350c5e0095f12b4b758fd0309a76ee64773ad4ac5a7162f649645661735dee3bd0fb6e158f",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.x11/11.3.22/avalonia.x11.11.3.22.nupkg",
+        "sha512": "350a093dcf604c3d78ac5fb6f5df2e96ca7e13e1c5b4740f16f7b49be42f40f35bceee867a26fce1c227633aa42cf5363c3e163a5b16c63d9b988bb55b068105",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.x11.11.3.20.nupkg"
+        "dest-filename": "avalonia.x11.11.3.22.nupkg"
     },
     {
         "type": "file",
@@ -365,10 +365,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/jint/4.16.0/jint.4.16.0.nupkg",
-        "sha512": "5f4ad02cf6cd166e3a0938a0077edccc48922a8df062cba64e30c14042ce2a9b6e1e091e307e3cefd83b850bb4bd1d824b960352eae753116c64ba8f3144a699",
+        "url": "https://api.nuget.org/v3-flatcontainer/jint/4.16.2/jint.4.16.2.nupkg",
+        "sha512": "c830e3d70d0700fe7fd374c1c9c208839b1c39a159205ea28e58751c30ea1c9c75df101c7ae2d41e94970af343934ef13b969de8886ac9dd932eef22746ad2b4",
         "dest": "nuget-sources",
-        "dest-filename": "jint.4.16.0.nupkg"
+        "dest-filename": "jint.4.16.2.nupkg"
     },
     {
         "type": "file",
@@ -708,17 +708,17 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime/1.23.2/microsoft.ml.onnxruntime.1.23.2.nupkg",
-        "sha512": "b15027986e717e2e095bb614ef48d8eb3e24496682b77f6d9f24479eacbb4252c81c0e1167e981067cca50a0238496324f23c33f2f765ae8bb318fe4160b3698",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime/1.28.0/microsoft.ml.onnxruntime.1.28.0.nupkg",
+        "sha512": "d97d83d031fa744cd67dab61e88deecc8b6c3c11b1a98951b0fcf73852bb4bd4df935d0c71674a19e80d8d3f0a98e02d9129e8df24c5f5ea38de60ef9fdb1a97",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.ml.onnxruntime.1.23.2.nupkg"
+        "dest-filename": "microsoft.ml.onnxruntime.1.28.0.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime.managed/1.23.2/microsoft.ml.onnxruntime.managed.1.23.2.nupkg",
-        "sha512": "ea8adfaadef0c516af5dab295e89de36971c1a0005e5bcea8ded043d876c04044f2a47d2c819992a86b3d84971b7b681b2fa235d756eb45c246c642a775a8197",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime.managed/1.28.0/microsoft.ml.onnxruntime.managed.1.28.0.nupkg",
+        "sha512": "f780354210451e84799f591fb632ae5fcb4c7acae6d917484bccf42c9bf931a5713c428a336eebb030baa243fd538065734fb3f32642806d24af92cbad62eab9",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.ml.onnxruntime.managed.1.23.2.nupkg"
+        "dest-filename": "microsoft.ml.onnxruntime.managed.1.28.0.nupkg"
     },
     {
         "type": "file",
@@ -890,45 +890,45 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-arm64/4.13.0.20260627/oneware.opencvsharp4.runtime.osx-arm64.4.13.0.20260627.nupkg",
-        "sha512": "f26a7e561bcf27d8127089e255fe5cafeb51f0a60650b447e8490fee449fd6513adb3a99b728ae1ebb0794d6909914ad36ce4d07e8f0743bd667560a6dc647ac",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.extended.runtime.osx-arm64/4.13.0.20260628/oneware.opencvsharp4.extended.runtime.osx-arm64.4.13.0.20260628.nupkg",
+        "sha512": "2555b1f32529169e6451b64ef9e49d6a57ecced102c820344283a1a4180a6592243d74e5533591fc55e0d62a5f6f0e63a66b2c3d6472d0a1c3c509e84dcb7187",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.osx-arm64.4.13.0.20260627.nupkg"
+        "dest-filename": "oneware.opencvsharp4.extended.runtime.osx-arm64.4.13.0.20260628.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.osx-x64/4.13.0.20260627/oneware.opencvsharp4.runtime.osx-x64.4.13.0.20260627.nupkg",
-        "sha512": "add01a57ffdda2f70e4d0a1a8c5856cd501d944044789e5264c62601ff4f53ba730b097a0bb85a6dfb8b2c3d7cf24f258a89f0103c61c1e73c98988150fb2452",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.extended.runtime.osx-x64/4.13.0.20260628/oneware.opencvsharp4.extended.runtime.osx-x64.4.13.0.20260628.nupkg",
+        "sha512": "dc8334ebcd1d9fa31f2dfc25e0eec21c6bf49e031f62c1e843345c9c955cecc77c90ca58a9ebeb35d5624ea222ed32bb16e147ba21c088a8680f9b87f2400dbb",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.osx-x64.4.13.0.20260627.nupkg"
+        "dest-filename": "oneware.opencvsharp4.extended.runtime.osx-x64.4.13.0.20260628.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64/4.13.0.20260627/oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.20260627.nupkg",
-        "sha512": "c69c1d3b3a792fed5ef922e637ff0ff84fcd0e90d99599bf1b5d156fbd5e72800531b7708f48a732959c0b3924d80411289b609f88fde685fcc7333249761516",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.extended.runtime.ubuntu.24.04-arm64/4.13.0.20260628/oneware.opencvsharp4.extended.runtime.ubuntu.24.04-arm64.4.13.0.20260628.nupkg",
+        "sha512": "2240c9213c42e8db564b3b2646aeba59c0654cda67a20faddb66f1549c624362504f9a22b7580339a484e1e0fb0b8d443bea3dec183ad69bc5a080748e152cdd",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-arm64.4.13.0.20260627.nupkg"
+        "dest-filename": "oneware.opencvsharp4.extended.runtime.ubuntu.24.04-arm64.4.13.0.20260628.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.ubuntu.24.04-x64/4.13.0.20260627/oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.20260627.nupkg",
-        "sha512": "56b393201fc7a9a11bea818572e148835d8284406c73d3e932bc85c230300a442b6e87a3d32091c9ca2d33ea96f788d397e807fcfd4c8a7b72eba951cfa92a63",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.extended.runtime.ubuntu.24.04-x64/4.13.0.20260628/oneware.opencvsharp4.extended.runtime.ubuntu.24.04-x64.4.13.0.20260628.nupkg",
+        "sha512": "962ca56a8d06a12c973977c63de4e51c4fdea9a7c143fa7d7269f36cc14e5db67076f9bae0809807ea7050289dfcec946f8d39e7d93d403835d855eb2ec69cfd",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.ubuntu.24.04-x64.4.13.0.20260627.nupkg"
+        "dest-filename": "oneware.opencvsharp4.extended.runtime.ubuntu.24.04-x64.4.13.0.20260628.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-arm64/4.13.0.20260627/oneware.opencvsharp4.runtime.win-arm64.4.13.0.20260627.nupkg",
-        "sha512": "bfa5aa7519a8b6375d72f32c9d68f22bcdaefde096f954c2b23c15d60bc59b605dccf398a683f9e0502f7ca81c13c38df2e822ada927b583f7f6dc040a05f42b",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.extended.runtime.win-arm64/4.13.0.20260628/oneware.opencvsharp4.extended.runtime.win-arm64.4.13.0.20260628.nupkg",
+        "sha512": "f22f380e3050e8269bafedca9391df991c893f226bd98f75f3035c00b192ca2e2e708838e3ffa7fb931b7d6e469bb63ae33c034c6aab4ebf3582563dd01678e0",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.win-arm64.4.13.0.20260627.nupkg"
+        "dest-filename": "oneware.opencvsharp4.extended.runtime.win-arm64.4.13.0.20260628.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.runtime.win-x64/4.13.0.20260627/oneware.opencvsharp4.runtime.win-x64.4.13.0.20260627.nupkg",
-        "sha512": "1fd80de2d66b85f843be9e9a955a1a0320ffaeee18c590b849ef360d7ac1846627fe65b515a0ecad3a748a88bed530bb902852f78171b03a8574396ffc9ad44d",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.opencvsharp4.extended.runtime.win-x64/4.13.0.20260628/oneware.opencvsharp4.extended.runtime.win-x64.4.13.0.20260628.nupkg",
+        "sha512": "cc7b8e2624fdd001789cf33a030d64a57241421f99638979a07fed0cd28a444b66acd3edcf4183ea8fbfbbe86cff8ab1a09bbb04a7088c78ceda504583ecf3eb",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.opencvsharp4.runtime.win-x64.4.13.0.20260627.nupkg"
+        "dest-filename": "oneware.opencvsharp4.extended.runtime.win-x64.4.13.0.20260628.nupkg"
     },
     {
         "type": "file",
