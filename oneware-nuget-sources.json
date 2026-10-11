@@ -414,20 +414,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/mediatr/14.1.0/mediatr.14.1.0.nupkg",
-        "sha512": "c2cabb65c9e8c4373e17886c2213ee03b151213948c17c3bb1eab0647913a394f66d73ccdb29618f0ea366b5a015955bd5185062cafad07fa47b9c2094a41dc7",
-        "dest": "nuget-sources",
-        "dest-filename": "mediatr.14.1.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg",
-        "sha512": "71a7e99f33064543c099307844c5e777ed6f7ae502822b1e83fb54e12145ecd3b61901b0876b066ebe356593c7a2e31c263632a6d2899e6b3b577fd77924e173",
-        "dest": "nuget-sources",
-        "dest-filename": "mediatr.contracts.2.0.1.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microcom.runtime/0.11.0/microcom.runtime.0.11.0.nupkg",
         "sha512": "c00731176e34ea7b936ad58a38639843c790b027b714ed5d3ea828b85ea94b14a502ded52ca7f60bb10c0ac0e744bd6e62fdcce0108ebaaf9731c408eece031e",
         "dest": "nuget-sources",
@@ -547,13 +533,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg",
-        "sha512": "475254983871f35cd70118fbff743049ec623bd94d1363c13d7c8ae3bb1b9521883a5e0977ad222d8f30b6627f3738695ed3c1892393327d8a158b9fed069123",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection.abstractions/10.0.2/microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg",
         "sha512": "2b6512aa95ed978b789ba917883948236be5dc353f0fd4148077b51e63c6e0dd6ad1be9ceb4614f94222a07a559ecafd4fc593520a26cea835619053e03c240c",
         "dest": "nuget-sources",
@@ -617,13 +596,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg",
-        "sha512": "50a0add96d30d90580fb8e02a25cea0aa15f4d22744279b5acfe18cc8568b74402aa062d5db13cc5887a08bfd24e07cbc88b2fc10ee8eec2c37edf3bcda7f8a7",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.extensions.logging.abstractions.8.0.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.options/10.0.2/microsoft.extensions.options.10.0.2.nupkg",
         "sha512": "bb03b9aef5310ea62c840f146d3b7d8ad917b90b83d725e4fa7161dd5504168add83aa00f6103ace127c80705148078c3ae1e05ff7f4b8313eda906bbb530f02",
         "dest": "nuget-sources",
@@ -659,24 +631,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.abstractions/8.14.0/microsoft.identitymodel.abstractions.8.14.0.nupkg",
-        "sha512": "175ef8bf78b63f3c327e680d5cf7721d74f29e96460e686b22b4e67c264fb036a7a9bea1473f4a5b487337ab7a560c861b51ed1aa744777f303362262b01a8b4",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.abstractions.8.14.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.abstractions/8.15.0/microsoft.identitymodel.abstractions.8.15.0.nupkg",
         "sha512": "0d5d2c4eba3991af030832327c443e19d77f40062249b80e0b78afa3228b6b3ed1aae18bf9564693c3ef02c30dea4a734787851154e9908d0180bb3227afec13",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.identitymodel.abstractions.8.15.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.jsonwebtokens/8.14.0/microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg",
-        "sha512": "f24e615f802b291d61dd20cb7bca810b940b7289d3fd45ae02de85ec2f1f4b9428935e975216d98eaa95ed43038320bcfc120e7673828ec25089a5458219042b",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg"
     },
     {
         "type": "file",
@@ -687,24 +645,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.logging/8.14.0/microsoft.identitymodel.logging.8.14.0.nupkg",
-        "sha512": "cae11816948710e1bf9406e980b826d68b35069944dbcb71d2e00f6b6073b3d6e9c970067b06f2a847830a11291eae012fc4aa04c476a9b34581450271bb128a",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.logging.8.14.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.logging/8.15.0/microsoft.identitymodel.logging.8.15.0.nupkg",
         "sha512": "b50d90321b5d31b2462933d541334f454f982f2800635920559248285af3504752a8e25d35907c5958154c6daabf85a85b5fbf45bbe60c867448d63309aaecc5",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.identitymodel.logging.8.15.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.tokens/8.14.0/microsoft.identitymodel.tokens.8.14.0.nupkg",
-        "sha512": "24b377c5758fd364a4f95016e213726946c4070191a818d39c56ea1e9f2d2a53bc5348650fbc140139bd68d6c80b3e9ed05f0f7018954c24159e0ad2c2b25615",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.tokens.8.14.0.nupkg"
     },
     {
         "type": "file",
@@ -876,38 +820,38 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.jsonrpc/1.0.1/oneware.omnisharp.extensions.jsonrpc.1.0.1.nupkg",
-        "sha512": "b7b92271c1e243c8b5e9b89753e3242a637988a8f024ccbd126b2699c4530673e2e087c7b24d5e62929ae1044f5e4a8ee71ea9d1f17fe36bcc404c49b4165de8",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.jsonrpc/1.0.2/oneware.omnisharp.extensions.jsonrpc.1.0.2.nupkg",
+        "sha512": "fbc82a1badf3a65b7d8cbdb0f8c42c8d0747a55f3fdaa8e02b639c6a771f5667e1520f78da7367996aca83d803f74050b824932f70e25088c082c494d2464822",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.omnisharp.extensions.jsonrpc.1.0.1.nupkg"
+        "dest-filename": "oneware.omnisharp.extensions.jsonrpc.1.0.2.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.jsonrpc.generators/1.0.1/oneware.omnisharp.extensions.jsonrpc.generators.1.0.1.nupkg",
-        "sha512": "383ed68a65edfd4e8bf6fc2b1f4205db2561b48a6cbad551dc87e3335334b7f52a6b4db52de36cf046d1c32e46ca9abee18d48fa9f3c42164e2a291019eeaea6",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.jsonrpc.generators/1.0.2/oneware.omnisharp.extensions.jsonrpc.generators.1.0.2.nupkg",
+        "sha512": "a7c629b0d368655c378c95a26fbb0ad7c596fb5656fd2930d3392107cc050fae2641f06b889f00548b5b63487ad190d705c6aaf4a863266539a278cb36495ede",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.omnisharp.extensions.jsonrpc.generators.1.0.1.nupkg"
+        "dest-filename": "oneware.omnisharp.extensions.jsonrpc.generators.1.0.2.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.languageclient/1.0.1/oneware.omnisharp.extensions.languageclient.1.0.1.nupkg",
-        "sha512": "ff99cbf54e4d9872fca8d72d3212a6e7e30cb69d8acfaf45874d2aa86d4375de809ec2e26c376e95da7e225eb754b2f92aa18f033cfa4585e95ea43142ddc0d6",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.languageclient/1.0.2/oneware.omnisharp.extensions.languageclient.1.0.2.nupkg",
+        "sha512": "d62c0fdb610014788291616065df5b7d758ccec78e01b741bb1723815105e2c54833f63a1e65de712cc201e067c5d589559b3ab1d15abccba3049dd254e0ce31",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.omnisharp.extensions.languageclient.1.0.1.nupkg"
+        "dest-filename": "oneware.omnisharp.extensions.languageclient.1.0.2.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.languageprotocol/1.0.1/oneware.omnisharp.extensions.languageprotocol.1.0.1.nupkg",
-        "sha512": "2b37786cbe57f2044fe46cb55fe1cbceace8d7312fb18780542c6db3529b4fbc3ebf8111f6359c4025d8c28678b6918071aad5e3703515079158a79b931c558a",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.languageprotocol/1.0.2/oneware.omnisharp.extensions.languageprotocol.1.0.2.nupkg",
+        "sha512": "e2e145ea56ae08fe3676fff3fa5203f33416aaab3684456b14b568df95cf66593b6e8a7a135a84c937afd717fe1e849fb22c4704e2f9b70cfd6f2dae52a1da0c",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.omnisharp.extensions.languageprotocol.1.0.1.nupkg"
+        "dest-filename": "oneware.omnisharp.extensions.languageprotocol.1.0.2.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.languageserver.shared/1.0.1/oneware.omnisharp.extensions.languageserver.shared.1.0.1.nupkg",
-        "sha512": "02f7769d0bc7325a6697a2909be114b4e7c55f43cbc559ee5a6e47325ac570bac881b3cb7620275f1a39492a855e3c48276f9e2b5be3a4b1374ca8d1fa35016a",
+        "url": "https://api.nuget.org/v3-flatcontainer/oneware.omnisharp.extensions.languageserver.shared/1.0.2/oneware.omnisharp.extensions.languageserver.shared.1.0.2.nupkg",
+        "sha512": "b5d0edc53370a4c00095c68c87fec0e846ac9a9ffde685d1d7750a1b3b30931dbc3beb0ed085bd8667ce5f06251c5b714fc777858676295b80a7ec1169e8f255",
         "dest": "nuget-sources",
-        "dest-filename": "oneware.omnisharp.extensions.languageserver.shared.1.0.1.nupkg"
+        "dest-filename": "oneware.omnisharp.extensions.languageserver.shared.1.0.2.nupkg"
     },
     {
         "type": "file",
